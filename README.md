@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Gutiérrez</h1>
-<h3 align="center">A student of programme sciences from cordoba</h3>
+<h3 align="center">A student of computer science from cordoba</h3>
 
 - 🌱 I’m currently learning **Data Base, Software Engineering and Computer Architecture.**
 
